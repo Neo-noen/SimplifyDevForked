@@ -13,18 +13,17 @@ https://create.roblox.com/store/asset/16708835782/Blender-Animations-ultimate-ed
 
 
 ### A Blender Addon for EXPLORTING Blender Animations into Roblox:
-https://github.com/IcKon/SimplifyDev/tree/main/Resources/Animating/BlenderRobloxExporter.py. Taken from [here](https://pastebin.com/raw/V5aBemWL)
+Due to previous issues, you'll have to install it manually yourself. Link is found on [this post](https://devforum.roblox.com/t/blender-rig-exporteranimation-importer/34729), under the "Installation" section, the pastebin link. All credit goes to the masterminds behind it.
 
 Installation Process:
-1. Download the file. I suggest keeping it in a safe place, such as ".../Documents/MyStuff/Blender/Addons" (what I personally have)
+1. Copy the whole pastebin file, paste it into a new file, calling it something like "BlenderRobloxExporter.py". I suggest keeping it in a safe place, such as ".../Documents/Blender/Addons"
 2. In blender, go to Edit > Preferences. In there open "Add-ons"
 3. Click on that arrow down icon, and press "Install from Disk" and select that .py file.
-(All the credit goes to [this post](https://devforum.roblox.com/t/blender-rig-exporteranimation-importer/34729))
 
 
 ### A Rig for Blender Animation:
 You don't have to worry about setting anything up, rather just start animating!
-You can get the template R6 Rig [here](https://github.com/IcKon/SimplifyDev/blob/main/Resources/Animating/RobloxRigTemplate.zip) (the zip provided next to the README file), containing the Rig and a Texture for a clearer animating process (or follow what's written in [the post](https://devforum.roblox.com/t/blender-rig-exporteranimation-importer/34729) for an R15/custom rig)
+You can get the template R6 Rig [here](https://github.com/IcKon/SimplifyDev/blob/main/Resources/Animating/RobloxRigTemplate.zip) (the zip provided next to the README file), containing the Rig and a Texture for a clearer animating process (or follow what's written in [the same post](https://devforum.roblox.com/t/blender-rig-exporteranimation-importer/34729) for an R15/custom rig. If you need an IK/FK rig, you can take a combo from [this post](https://devforum.roblox.com/t/r6-ik-fk-blender-rig/3586405))
 
 
 # The Animating Process
