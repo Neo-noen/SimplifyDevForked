@@ -13,10 +13,10 @@ https://create.roblox.com/store/asset/16708835782/Blender-Animations-ultimate-ed
 
 
 ### A Blender Addon for EXPLORTING Blender Animations into Roblox:
-Due to previous issues, you'll have to install it manually yourself. Link is found on [this post](https://devforum.roblox.com/t/blender-rig-exporteranimation-importer/34729), under the "Installation" section, the pastebin link. All credit goes to the masterminds behind it.
+You can either download the file attached to the Github [here](https://github.com/IcKon/SimplifyDev/tree/main/Resources/Animating/BlenderRobloxExporter.py), or get it from the [pastebin](https://pastebin.com/raw/V5aBemWL). It's all taken from [this post](https://devforum.roblox.com/t/blender-rig-exporteranimation-importer/34729), if you want to verify that (All the credit goes to the masterminds behind it). Make sure to rename it to something intuitive and change its file type to ".py".
 
 Installation Process:
-1. Copy the whole pastebin file, paste it into a new file, calling it something like "BlenderRobloxExporter.py". I suggest keeping it in a safe place, such as ".../Documents/Blender/Addons"
+1. Get the file from the resources above. I suggest keeping it in a safe place, such as ".../Documents/Blender/Addons"
 2. In blender, go to Edit > Preferences. In there open "Add-ons"
 3. Click on that arrow down icon, and press "Install from Disk" and select that .py file.
 
