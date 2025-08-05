@@ -237,7 +237,7 @@ ukit.string = {
 		return str
 	end;
 
-	compareBegin = function(str: string, compareStr: string, offset: number?|string?)
+	compareBegin = function(str: string, compareStr: string, offset: (number | string)?)
 		if type(offset) == "string" then offset = string.len(offset) end
 		offset = math.max(0, offset or 0) + 1
 		return string.sub(str, offset, math.max(string.len(compareStr) + offset - 1, offset)) == compareStr
